@@ -1,0 +1,15 @@
+.td {
+    margin: 1em;
+}
+.td form {
+    border: 2px #34656d solid;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 1em;
+}
+.td input {
+    margin: 1em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border-style: solid;
+}

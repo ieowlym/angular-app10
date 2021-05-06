@@ -1,0 +1,42 @@
+.md {
+    margin: 1em;
+}
+.md h2 {
+    margin: 1em;
+}
+.md form {
+    border: 2px #34656d solid;
+    border-radius: 0.5em;
+    padding-left: 0;
+}
+.md legend {
+    margin: -1px;
+    padding: 0.8em;
+    color: white;
+    background-color: #34656d;
+    border: 5px #34656d solid;
+    border-radius: 0.5em 0.5em 0 0;
+}
+.md .form-gr {
+    margin: 2em 2.2em;
+}
+.md label {
+    font-weight: bold;
+    margin-right: 2em;
+}
+.md input {
+    float: right;
+    width: 75%;
+    margin-top: -5px;
+    margin-right: 2em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+.md button {
+    padding: 1em;
+    background-color: #34656d;
+    color: white;
+    border-radius: 0.5em;
+    border: none;
+    margin: 0 0 1em 2.2em;
+}
